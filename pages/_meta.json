@@ -1,0 +1,18 @@
+{
+  "index": {
+    "type": "page",
+    "title": "Accueil"
+  },
+  "guides": {
+    "title": "Guides",
+    "type": "page"
+  },
+  "technologies": {
+    "title": "Technologies",
+    "type": "page"
+  },
+  "tips_and_tricks": {
+    "title": "Tips & Tricks",
+    "type": "page"
+  }
+}

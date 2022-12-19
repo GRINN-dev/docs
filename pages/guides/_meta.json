@@ -1,0 +1,9 @@
+{
+  "index": {
+    "title": "Guides"
+  },
+  "fullstack_next_app": {
+    "title": "Fullstack Next.js App",
+    "description": "Learn how to build a fullstack Next.js app with Prisma and PostgreSQL."
+  }
+}

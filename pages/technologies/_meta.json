@@ -1,0 +1,10 @@
+{
+  "index": "Technos",
+  "ionic": "Ionic",
+  "nextjs": "Next.js",
+  "postgraphile": "PostGraphile",
+  "tailwindcss": "Tailwind CSS",
+  "turborepo": "Turbo Repo",
+  "typescript": "TypeScript",
+  "vite": "Vite"
+}
